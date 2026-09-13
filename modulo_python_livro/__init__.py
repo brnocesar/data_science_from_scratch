@@ -1,0 +1,4 @@
+from .estatistica import *
+from .probabilidade import *
+from .hipotese_inferencia import *
+
